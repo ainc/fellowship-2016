@@ -39,7 +39,7 @@
 - name: Switcher Studio
   description: Switcher is a video creation platform. The service includes access to the Switcher iOS video mixing app, cloud services, desktop tools and support. Sync up to 4 iPhones and iPads to record and stream LIVE video with TV quality results and share instantly on YouTube, Facebook and more.
   image_url: switcher_studio
-  site_url: https://switcherstudio.com/en/
+  site_url: https://switcherstudio.com/
 
 - name: Fanbloom
   description: Fanbloom combines workflow automation tools -- including messaging and payment features -- with detailed social media audience intelligence, allowing brands and marketers to confidently identify and collaborate with influencers.
