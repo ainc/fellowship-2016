@@ -1,51 +1,55 @@
-<div class="navbar navbar-default navbar-fixed-top navbar-static" >
+<!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top" >
       <div class="container">
         <div class="navbar-header">
           
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a href="/"><img class="mobile" src="/assets/img/Logo_Horizontal.png" alt="Awesome Fellowship Logo" height="35px" style="margin-top: 8px;"> </a>
+          <a href="/"><img class="mobile" src="/assets/img/Logo_Horizontal.png" alt="Awesome Fellowship Logo" height="35px" style="margin-top: 8px;"> </a>           <!-- Old Header Text 
+           <a class="navbar-brand" href="#"><b>Awesome Inc</b></a>
+           -->
+           <!-- Added to make the logo move down a little.
+           -->
+          <!-- <div style="margin: 0px; padding:0px; clear: both; height: 6px"> -->
         &nbsp;
         </div>
-        <div class="collapse navbar-collapse">
-          <ul id="sddm" class="nav navbar-nav navbar-right" style="min-width:0"> <!-- RIGHT ALIGNED NAVBAR -->
+        <div class="collapse navbar-collapse" id="navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right" style="min-width:0"> <!-- RIGHT ALIGNED NAVBAR -->
             <li {% if page.path contains 'about' %} class="active" {% endif %}>   <!-- ABOUT -->
-                <a data-toggle="collapse" data-target=".navbar-collapse" href="/about/" >About</a>
+                <a data-toggle="collapse" data-target=".in" href="/about/">About</a>
               </li> 
-              <li {% if page.path contains 'media' %} class="active" {% endif %}>   <!-- ABOUT -->
-                <a data-toggle="collapse" data-target=".navbar-collapse" href="/media/" >Media</a>
-              </li> 
-            <li {% if page.path contains 'portfolio' %} class="active" {% endif %}>  <!-- PORTFOLIO -->
-                <a data-toggle="collapse" data-target=".navbar-collapse" href="/portfolio/">Portfolio</a>
+            <li {% if page.path contains 'media' %} class="active" {% endif %}>  <!-- MEDIA -->
+                <a data-toggle="collapse" data-target=".in" href="/media/">Media</a>
               </li>
-            <li {% if page.path contains 'perks' %} class="active" {% endif %}>    <!-- PERKS -->
-                <a data-toggle="collapse" data-target=".navbar-collapse" href="/perks/">Perks</a>
+            <li {% if page.path contains 'portfolio' %} class="active" {% endif %}>    <!-- PERKS -->
+                <a data-toggle="collapse" data-target=".in" href="/portfolio/">Portfolio</a>
             </li>
-            <li {% if page.path contains 'apply' %} class="active" {% endif %}>   <!-- APPLY -->
-                <a data-toggle="collapse" data-target=".navbar-collapse" href="/apply/">Apply</a>
+            <li {% if page.path contains 'perks' %} class="active" {% endif %}>   <!-- Team -->
+                <a data-toggle="collapse" data-target=".in" href="/perks/">Perks</a>
+              </li>
+            <li {% if page.path contains 'apply' %} class="active" {% endif %}> <!-- APPLY -->
+                <a data-toggle="collapse" data-target=".in"  href="/apply/">Apply</a>
             </li>
-            <li id="mobile-none"> <!-- Community -->
+            <li class="dropdown"> <!-- Community -->
 
-                <a href="#" 
-                onmouseover="mopen('m5')" 
-              onmouseout="mclosetime()" style="color: #c31337">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: #bbbbbb">
+                  <span class="caret"></span>
               <!-- <img src="/assets/img/ainc_community_logo.png" width="20px" height="20px"> -->
                   Community
                 </a>
-                <div id="m5" onmouseover="mcancelclosetime()" 
-              onmouseout="mclosetime()">
-                    <a href="http://www.awesomeinc.org" target="_blank">Startups</a>
-                    <a href="http://www.awesomeincu.com" target="_blank">Coding Courses</a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.awesomeinc.org" target="_blank">Startups</a></li>
+                  <li><a href="http://www.awesomeincu.com" target="_blank">Coding Courses</a></li>
                     <!-- <a href="http://www.apaxsoftware.com" target="_blank">Software</a> -->
-                    <a href="http://www.cherubfund.org" target="_blank">Investment</a>
-                    <a href="http://www.awesomeinc.org/about#calendar" target="_blank">Events</a>
-                </div>
+                  <li><a href="http://www.cherubfund.org" target="_blank">Investment</a></li>
+                  <li><a href="http://www.awesomeinc.org/about#calendar" target="_blank">Events</a></li>
+                </ul>
               </li>
             </ul>
           </div>
           <!-- <div style="clear:both"></div> -->
-        </div><!--/.nav-collapse -->
-    </div>
+        </div><!--/.container -->
+    </nav>
