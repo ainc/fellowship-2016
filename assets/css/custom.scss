@@ -50,6 +50,10 @@ $mobile-width: $tablet-width - 1;
 	
 }
 
+.navbar-nav > li{
+	margin-left: 0em;
+}
+
 .navbar-nav > li:hover{
   background-color: #E6E6E6;
 }
