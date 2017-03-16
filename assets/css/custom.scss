@@ -50,6 +50,15 @@ $mobile-width: $tablet-width - 1;
 	
 }
 
+.navbar-nav > li:hover{
+  background-color: #E6E6E6;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus
+{
+	color: red;
+}
+
 span.anchor {
 	display: block;
 	height: 50px; /*same height as header*/
