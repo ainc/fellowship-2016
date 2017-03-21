@@ -1,3 +1,10 @@
+- name: Mailhaven
+  description: MailHaven is a smart mailbox that tracks and protects your packages.
+  image_url: Mailhaven_Logo
+  site_url: https://mailhaven.co/
+  width: 90
+  margin: 5
+
 - name: Cloverleaf.me
   description: Cloverleaf is a proficiency, preferences and personality test service to help employees discover their unique identity and reveal how they fit within teams.
   image_url: cloverleaf
