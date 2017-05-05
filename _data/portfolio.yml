@@ -1,3 +1,8 @@
+- name: PASIV Duty
+  description: Provides law enforcement firearm monitoring for safety, accountability, and location tracking.
+  image_url: logo_pasivduty_HiRes
+  site_url: http://www.pasivduty.com/ 
+  
 - name: Mailhaven
   description: MailHaven is a smart mailbox that tracks and protects your packages.
   image_url: Mailhaven_Logo
@@ -122,6 +127,5 @@
   description: Using short entertaining video modules, you are taught specifically how to deal with common ADHD problem areas. We provide a host of tools and exercises to help you control your ADHD -- everything from apps to mental tricks to brainwave entertainment! Say goodbye to the stress, distractions, and frustrations of having ADHD, and hello to a peaceful and focused mind.
   image_url: CMADHD
   site_url: '#'
-
 
 # Note: Inactive Courses below here
