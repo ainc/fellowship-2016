@@ -2,13 +2,13 @@
     <nav class="navbar navbar-default navbar-fixed-top" >
       <div class="container">
         <div class="navbar-header">
-          
+
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a href="/"><img class="mobile" src="/assets/img/Logo_Horizontal.png" alt="Awesome Fellowship Logo" height="35px" style="margin-top: 8px;"> </a>           <!-- Old Header Text 
+          <a href="/"><img class="mobile" src="/assets/img/Logo_Horizontal.png" alt="Awesome Fellowship Logo" height="35px" style="margin-top: 8px;"> </a>           <!-- Old Header Text
            <a class="navbar-brand" href="#"><b>Awesome Inc</b></a>
            -->
            <!-- Added to make the logo move down a little.
@@ -20,7 +20,10 @@
           <ul class="nav navbar-nav navbar-right" style="min-width:0"> <!-- RIGHT ALIGNED NAVBAR -->
             <li {% if page.path contains 'about' %} class="active" {% endif %}>   <!-- ABOUT -->
                 <a data-toggle="collapse" data-target=".in" href="/about/">About</a>
-              </li> 
+              </li>
+              <li {% if page.path contains 'about' %} class="active" {% endif %}>   <!-- ABOUT -->
+                <a data-toggle="collapse" data-target=".in" href="/blog/">Blog</a>
+              </li>
             <li {% if page.path contains 'media' %} class="active" {% endif %}>  <!-- MEDIA -->
                 <a data-toggle="collapse" data-target=".in" href="/media/">Media</a>
               </li>

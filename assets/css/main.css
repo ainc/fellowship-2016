@@ -2,7 +2,7 @@
  * Author: Carlos Alvarez
  * URL: http://alvarez.is
  *
- * Project Name: 
+ * Project Name:
  * Version: 1.0
  * URL: http://alvarez.is
  */
@@ -171,6 +171,68 @@ input[type="submit"] {
 	border: 0px;
 	margin-top: 1em;
 }
+
+/* Blog styles
+---------------------------*/
+/* Blog name and description
+ */
+
+.blog-header {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.blog-header h1 {
+  margin-bottom: 0;
+  font-size: 60px;
+  font-weight: normal;
+}
+.blog-description {
+  font-size: 20px;
+  color: #999;
+}
+
+
+/*
+ * Main column
+ */
+
+.blog-main, .content-main {
+  letter-spacing: .01rem;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+.blog-main p, .content-main p {
+  margin-bottom: 30px;
+}
+
+/*
+ * Blog posts
+ */
+
+.blog-post {
+  margin-bottom: 60px;
+    width: 100%;
+}
+.blog-post img{
+    width: 100%;
+}
+.blog-main h1, .content-main h1 {
+  margin-top: 50px;
+  margin-bottom: 5px;
+  font-size: 40px;
+}
+.blog-post-meta {
+  margin-bottom: 20px;
+  color: #999;
+}
+.employer-list {
+    list-style: none;
+}
+
 /* ==========================================================================
    Wrap Sections
    ========================================================================== */
@@ -184,7 +246,7 @@ input[type="submit"] {
 	background-position: center center;
 	min-height: 500px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -386,7 +448,7 @@ footer p {
 	div#calendar {
 		margin: auto;
 		width: 80%;
-	}	
+	}
 }
 
 @media (max-width: 1000px) {
@@ -480,14 +542,14 @@ div.parking {
 /* dropdown */
 
 #sddm
-{	
+{
 	margin: 0;
 	padding: 0;
 	z-index: 30
 }
 
 #sddm li
-{	
+{
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -499,7 +561,7 @@ div.parking {
 }
 
 #sddm li a
-{	
+{
 
 	display: block;
 	margin: 0 1px 0 0;
@@ -508,7 +570,7 @@ div.parking {
 }
 
 #sddm li a:hover
-{	
+{
 	color: #313131;
 	background-color: none;
 }
@@ -532,14 +594,14 @@ div.parking {
 		margin: 0;
 		padding: 5px 10px;
 		width: auto;
-		
+
 		color: #313131;
 		white-space: nowrap;
 		text-align: center;
 	}
 
 	#sddm div a:hover
-	{	
+	{
 		/*background: #49A3FF;
 		color: #FFF*/
 		color: rgb(207, 53, 59);
@@ -634,13 +696,13 @@ div.parking {
 .feature-img-right {
 	background-image: url("/assets/img/Homepage_Icons/Icon_LTC.png");
 	background-size:cover;
-}	
+}
 .feature-img-right:hover {
 	background-image: url("/assets/img/Homepage_Icons/Icon_LTC_Red.png");
 	background-size:cover;
 }
 
- 
+
 div.feature a {
 	    position: relative;
 	    width: 100%;
@@ -652,7 +714,7 @@ div.feature a {
 	    background-color: #FFF; /* Fix to make div clickable in IE */
 	    filter: alpha(opacity=1); /* Fix to make div clickable in IE */
 	}
-	
+
 div.footerbox {
 		float:left;
 		width: 300px;
@@ -660,12 +722,12 @@ div.footerbox {
 		border: 1px solid #ccc;
 		padding: 10px;
 		background-color: #ACACAC;
-		/* For Opacity 
-	    opacity: .50; 
-	    filter: alpha(opacity=50); 
-	    -ms-filter: "alpha(opacity=50)"; 
-	    -khtml-opacity: .50; 
-	    -moz-opacity: .50; 
+		/* For Opacity
+	    opacity: .50;
+	    filter: alpha(opacity=50);
+	    -ms-filter: "alpha(opacity=50)";
+	    -khtml-opacity: .50;
+	    -moz-opacity: .50;
 		*/
 		}
 
@@ -750,7 +812,7 @@ div#mc_embed_signup {
 	bottom: 50%;
 	left:-110px;
 	background-color: white;
-	border-radius: 10px; 
+	border-radius: 10px;
 	visibility: hidden;
 	opacity: 0;
 	font-weight: normal;
