@@ -1173,5 +1173,8 @@ div.teammate {
 	border-radius: 50%;
 	margin-top: 10px;
 }
-
+.footer-item {
+	@include tablet {
+	}
+}
 
