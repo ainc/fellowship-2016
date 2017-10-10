@@ -1,5 +1,12 @@
 # insert new teams at the top so they show up at the top of the page
 
+- name: Rise Design
+  description: Crafting well-designed products for the elderly to make their hobbies easier to enjoy.
+  image_url: RiseDesign_Reachabowl
+  width: 60
+  margin: 20
+  site_url: https://www.reachabowl.com/
+
 - name: Weather Check
   description: SaaS that provides continuous monitoring and notification when an address is affected by extreme weather. By aggregating public and proprietary weather data and analyzing it against portfolio properties, Weather Check can provide a new way for property owners and their managers to approach asset value preservation.
   image_url: WeatherCheck
