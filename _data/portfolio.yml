@@ -1,5 +1,12 @@
 # insert new teams at the top so they show up at the top of the page
 
+- name: Qualmet
+  description: Qualmetis a cloud-based platform used by internal law departments to quickly, easily and consistently measure the value of external legal service providers. The company focuses on raising the business value created between in-house and outside counsel. Through performance metrics and objective benchmarking, the company and its namesake product create an industrywide common language.
+  image_url: Qualmet
+  width: 70
+  margin: 15
+  site_url: http://www.qualmetlegal.com/
+
 - name: Rise Design
   description: Crafting well-designed products for the elderly to make their hobbies easier to enjoy.
   image_url: RiseDesign_Reachabowl
