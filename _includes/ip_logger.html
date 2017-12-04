@@ -1,0 +1,16 @@
+<script type="text/javascript" src="https://l2.io/ip.js?var=myip"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    var request;
+    var url = "https://script.google.com/macros/s/AKfycbyUrN1fmwUsOC0I_m3bh5irbV8rk2fJtPUZ8h_ssA8qymkyHvA/exec"
+    var ip_data = "ip_address="+myip;
+    request = $.ajax({
+        url: url,
+        type: "post",
+        data: ip_data
+    });
+    event.preventDefault();
+    
+});
+</script>
