@@ -1,5 +1,12 @@
 # insert new teams at the top so they show up at the top of the page
 
+- name: Meta Construction Technologies
+  description: Meta Construction Technologies, LLC is a construction-tech firm in Louisville, KY that is giving control to the asphalt industry with our innovative virtual Fleet Management & Dispatch software solution, BlackTop. Asphalt contractors request trucks from preferred trucking vendors directly through our system and then track drivers using our mobile app.
+  image_url: Meta_Construction
+  width: 70
+  margin: 15
+  site_url: http://www.meta-ct.com
+
 - name: Qualmet
   description: Qualmet is a cloud-based platform used by internal law departments to quickly, easily and consistently measure the value of external legal service providers. The company focuses on raising the business value created between in-house and outside counsel. Through performance metrics and objective benchmarking, the company and its namesake product create an industrywide common language.
   image_url: Qualmet
