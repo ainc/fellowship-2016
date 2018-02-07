@@ -1,5 +1,5 @@
 $("#accordion").on("shown.bs.collapse", function () {
-    var myEl = $(this).find('.collapse.in');
+    var myEl = $(this).find('.panel-collapse.in');
     var sib = myEl.siblings();
     var headerHeight = sib.height();
     var offHeight = 100;
@@ -9,7 +9,11 @@ $("#accordion").on("shown.bs.collapse", function () {
     	offHeight = 175;
     }
     console.log("off h: " + offHeight);
-    $('html, body').animate({
-        scrollTop: $(myEl).offset().top - offHeight
-    }, 500);
+    var body = $('html, body');
+    if (body.length) {
+        $('html, body').animate({
+            scrollTop: $(myEl).offset().top - offHeight
+        }, 500);    
+    }
+    
 });
