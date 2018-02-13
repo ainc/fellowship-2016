@@ -1,5 +1,12 @@
 # insert new teams at the top so they show up at the top of the page
 
+- name: Curio Learning
+  description: Curio is an online space for teachers to discover, curate and collaborate on ideas and strategies in one place.
+  image_url: curio
+  width: 70
+  margin: 15
+  site_url: http://curiolearning.com/
+
 - name: MyNurse
   description: Bridging the gap between caregivers and patients for in-home healthcare services in real time and in a transparent way.
   image_url: MyNurse
