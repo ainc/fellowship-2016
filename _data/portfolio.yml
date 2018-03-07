@@ -82,12 +82,12 @@
   width: 90
   margin: 5
 
-- name: 451 Tech
-  description: 451 is a cloud based, SaaS targeting niche fields of healthcare medicine.  451 manages patient information, patient scheduling, billing, and inventory management.  451 creates an all-inclusive platform that streamlines the users daily experience, while utilizing the newest technologies and billing strategies.
-  image_url: 451-Tech
-  site_url: http://www.451.tech/
-  width: 50
-  margin: 25
+- name: Nymbl Systems
+  description: Nymbl Systems is a cloud based, SaaS targeting niche fields of healthcare medicine. Nymbl Systems manages patient information, patient scheduling, billing, and inventory management. Nymbl Systems creates an all-inclusive platform that streamlines the users daily experience, while utilizing the newest technologies and billing strategies.
+  image_url: nymblsystems
+  site_url: http://www.nymbl.net/
+  width: 70
+  margin: 15
 
 - name: RalphVR
   description: RalphVR is a virtual reality game studio connecting people through unforgettable adventures. Their mission is to bring people together inside games that leave a positive impact on players.
