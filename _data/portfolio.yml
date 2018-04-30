@@ -1,5 +1,12 @@
 # insert new teams at the top so they show up at the top of the page
 
+- name: Podchaser
+  description: Podchaser is the cross-platform ratings and database solution for the growing world of podcasting.
+  image_url: podchaser
+  width: 36
+  margin: 32
+  site_url: https://www.podchaser.com/episodes
+
 - name: iReportSource
   description: iReportSource is disrupting the paper-based employee health and safety space. They use mobility to collect data in an effort to predict and prevent workplace accidents.
   image_url: ireportsource
