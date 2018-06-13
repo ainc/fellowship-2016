@@ -1,5 +1,12 @@
 # insert new teams at the top so they show up at the top of the page
 
+- name: Anavii Market
+  description: Anavii Market is an online retailer powered by plant products. We provide premium verified hemp-derived CBD, and CBD education through a user-friendly interface. 
+  image_url: anavii_market
+  width: 68
+  margin: 15
+  site_url: https://www.anaviimarket.com/
+
 - name: Podchaser
   description: Podchaser is the cross-platform ratings and database solution for the growing world of podcasting.
   image_url: podchaser
