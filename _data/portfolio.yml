@@ -1,5 +1,10 @@
 # insert new teams at the top so they show up at the top of the page
 
+- name: Tack Hunter
+  description: A platform to quickly buy and sell your tack and apparel right from your phone!
+  image_url: tack_hunter
+  site_url: https://tackhunter.com/
+
 - name: Anavii Market
   description: Anavii Market is an online retailer powered by plant products. We provide premium verified hemp-derived CBD, and CBD education through a user-friendly interface. 
   image_url: anavii_market
