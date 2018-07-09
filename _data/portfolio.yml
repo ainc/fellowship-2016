@@ -1,8 +1,8 @@
 # insert new teams at the top so they show up at the top of the page
 
-- name: Tack Hunter
+- name: TackHunter
   description: A platform to quickly buy and sell your tack and apparel right from your phone!
-  image_url: tack_hunter
+  image_url: tackhunter
   site_url: https://tackhunter.com/
 
 - name: Anavii Market
