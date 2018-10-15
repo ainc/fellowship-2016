@@ -94,7 +94,7 @@
 	  {"title":"President","website":"http://www.linkedin.com/pub/chuck-woods/50/92a/46a","name":"Chuck Woods","company":"OPM","website_text":"President, OPM","image":"/assets/img/mentors/woods.jpg"},
 	  {"title":"Director","website":"http://www.linkedin.com/pub/gordon-garrett/2/209/267","name":"Gordon Garrett","company":"KY Small Business Development Center","website_text":"Director, KY Small Business Development Center","image":"/assets/img/mentors/garrett.jpg"},
 	  {"title":"Attorney","website":"http://www.linkedin.com/in/kensagan","name":"Ken Sagan","company":"Stites \u0026 Harbison","website_text":"Attorney, Stites \u0026 Harbison","image":"/assets/img/mentors/sagan.jpg"},
-	  {"title":"Owner","website":"http://www.linkedin.com/pub/bryce-anderson/5/90/6b","name":"Bryce Anderson","company":"Orange Leaf Frozen Yogurt","website_text":"Owner, Orange Leaf Frozen Yogurt","image":"/assets/img/mentors/anderson.jpg"},
+	  {"title":"Owner","website":"http://www.linkedin.com/pub/bryce-anderson/5/90/6b","name":"Bryce Anderson","company":"Breakout Games / Orange Leaf Frozen Yogurt / Vinaigrette","website_text":"Owner, Orange Leaf Frozen Yogurt","image":"/assets/img/mentors/anderson.jpg"},
 	  {"title":"Owner","website":"http://www.facebook.com/sizemore","name":"Jeremiah Sizemore","company":"Orange Leaf Frozen Yogurt","website_text":"Owner, Orange Leaf Frozen Yogurt","image":"/assets/img/mentors/sizemore.jpg"},
 	  {"title":"Project Manager","website":"http://www.linkedin.com/pub/keith-kurzendoerfer/3/aa4/127","name":"Keith Kurzendoerfer","company":"APAX Software","website_text":"Project Manager, APAX Software","image":"/assets/img/mentors/kurzendoerfer.jpg"},
 	  {"title":"Owner","website":"http://www.linkedin.com/in/evanmorris","name":"Evan Morris","company":"Orange Leaf Frozen Yogurt","website_text":"Owner, Orange Leaf Frozen Yogurt","image":"/assets/img/mentors/morris.jpg"},
@@ -109,7 +109,28 @@
 	  {"title":"CEO","website":"http://www.linkedin.com/in/brianpoe","name":"Brian Poe","company":"Corrisoft","website_text":"CEO, Corrisoft","image":"/assets/img/mentors/brian_poe.jpg"},
 	  {"title":"CEO","website":"https://www.linkedin.com/pub/stephen-gray/0/a9/242/en","name":"Stephen Gray","company":"Gray Construction","website_text":"CEO, Gray Construction","image":"/assets/img/mentors/stephen_gray.jpg"},
 	  {"title":"Wealth Management Advisor","website":"www.randy-collins.com","name":"Randy Collins","company":"Northwestern Mutual","website_text":"Wealth Management Advisor, Northwestern Mutual","image":"/assets/img/mentors/randy.jpg"},
-	  {"title":"Financial Advisor","website":"http://christianschnabel.nm.com/","name":"Christian Schnabel","company":"Northwestern Mutual","website_text":"Financial Advisor, Northwestern Mutual","image":"/assets/img/mentors/christian.jpg"}
+	  {"title":"Financial Advisor","website":"http://christianschnabel.nm.com/","name":"Christian Schnabel","company":"Northwestern Mutual","website_text":"Financial Advisor, Northwestern Mutual","image":"/assets/img/mentors/christian.jpg"},
+	  {"title":"Managing Director","website":"https://www.linkedin.com/in/patspowell/","name":"Pat Powell","company":"Corporate Finance Associates","website_text":"Managing Director, Corporate Finance Associates","image":"/assets/img/mentors/pat-powell.jpeg"},
+	  {"title":"Managing Director","website":"https://www.linkedin.com/in/phil-holoubek-8a00704/","name":"Phil Holoubek","company":"LRC Real Estate","website_text":"Managing Director, Lexington Real Estate Company","image":"/assets/img/mentors/phil-holoubek.jpeg"},
+	  {"title":"Board Member","website":"https://www.linkedin.com/in/phoebe-wood-b404328/","name":"Phoebe Wood","company":"PPL Corporation","website_text":"Board Member, PPL Corporation","image":"/assets/img/mentors/phoebe-wood.jpeg"},
+
+	  {"title":"Board Member","website":"https://www.linkedin.com/in/phoebe-wood-b404328/","name":"Russ Hensley","company":"PPL Corporation","website_text":"Board Member, PPL Corporation","image":"/assets/img/mentors/phoebe-wood.jpeg"},
+	  {"title":"Board Member","website":"https://www.linkedin.com/in/phoebe-wood-b404328/","name":"Stephen Gray","company":"PPL Corporation","website_text":"Board Member, PPL Corporation","image":"/assets/img/mentors/phoebe-wood.jpeg"},
+	  {"title":"Board Member","website":"https://www.linkedin.com/in/phoebe-wood-b404328/","name":"Susannah Sizemore","company":"PPL Corporation","website_text":"Board Member, PPL Corporation","image":"/assets/img/mentors/phoebe-wood.jpeg"},
+	  {"title":"","website":"","name":"Ted Smith","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"Tendai Charasika","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"Eric Hartman","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"Will Montague","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"Chris Heivly","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"Drew Sutton","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"Marc Nager","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"Dan Beldy","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"Ron Geary","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"Terry Forcht","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"","website":"","name":"John Williams","company":"","website_text":"","image":"/assets/img/mentors/"},
+	  {"title":"Entrepreneur in Residence","website":"https://www.linkedin.com/in/douglasfcobb/","name":"Doug Cobb","company":"Chrysalis Ventures","website_text":"Entrepreneur in Residence, Chrysalis Ventures","image":"/assets/img/mentors/doug-cobb.jpeg"},
+	  {"title":"","website":"https://www.linkedin.com/in/kim-knopf-4b6a43b/","name":"Kim Knopf","company":"","website_text":"CEO, Innovative Mattress Solutions","image":"/assets/img/mentors/kim-knopf.jpeg"},
+	  {"title":"","website":"https://www.linkedin.com/in/joe-steier-14a39b12/","name":"Joe Steier","company":"","website_text":"","image":"/assets/img/mentors/"},
 	  ];
 	}
 
