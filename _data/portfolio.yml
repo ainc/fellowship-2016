@@ -1,5 +1,19 @@
 # insert new teams at the top so they show up at the top of the page
 
+- name: Kare
+  description: Disruptive innovation in the oral health care space, is the business Kare is in.  We achieve this through our concierge mobile dental business and our mobile application technologies that solve the access to oral health care barrier for the uninsured and underinsured of America.
+  image_url: kare
+  width: 60
+  margin: 20
+  site_url: https://kare.mobi
+
+- name: EZ Turn
+  description: With EZ Turn's EZ Scheduler, housing unit staff will be more efficient and give their property managers more free time to focus on different tasks.
+  image_url: ez-turn
+  width: 40
+  margin: 30
+  site_url: http://ezturn.net/
+
 - name: EZ Turn
   description: With EZ Turn's EZ Scheduler, housing unit staff will be more efficient and give their property managers more free time to focus on different tasks.
   image_url: ez-turn
