@@ -14,13 +14,6 @@
   margin: 30
   site_url: http://ezturn.net/
 
-- name: EZ Turn
-  description: With EZ Turn's EZ Scheduler, housing unit staff will be more efficient and give their property managers more free time to focus on different tasks.
-  image_url: ez-turn
-  width: 40
-  margin: 30
-  site_url: http://ezturn.net/
-
 - name: FreshFry
   description: At FreshFry, we strive to simplify complex oil filtering systems. The FreshFry Pod is a safe and easier way to replenish and extend the life of your frying oil. The Pod works overnight by capturing and removing the impurities that make your oil smoke, look dark, and taste bitter. 
   image_url: fresh-fry
