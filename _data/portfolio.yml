@@ -1,5 +1,19 @@
 # insert new teams at the top so they show up at the top of the page
 
+- name: OmniLife
+  description: Our SaaS offers an ability to transplant additional organs by reducing donated organ waste.
+  image_url: omnilife
+  width: 70
+  margin: 15
+  site_url: https://www.omnilife.ai/
+
+- name: Smart Rotation
+  description: Smart Rotation provides automatic rotational scheduling solutions for gymnastics to allow facility owners to focus on providing high-quality gymnastics instruction.
+  image_url: smart-rotation
+  width: 60
+  margin: 20
+  site_url: https://smart-rotation.com
+
 - name: Agent Ally
   description: Agent Ally brings innovation to Medicare sales by automating the most time-consuming pieces of the sales process, enabling a more client-focused sales conversation.
   image_url: agent-ally
