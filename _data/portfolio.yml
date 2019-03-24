@@ -2,7 +2,7 @@
 
 - name: OmniLife
   description: Our SaaS offers an ability to transplant additional organs by reducing donated organ waste.
-  image_url: omnilife
+  image_url: omnilife-dark
   width: 70
   margin: 15
   site_url: https://www.omnilife.ai/
